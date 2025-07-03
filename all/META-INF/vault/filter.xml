@@ -15,5 +15,5 @@
   ~ limitations under the License.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <workspaceFilter version="1.0">
-    <filter root="/apps/<my-app>-packages"/>
+    <filter root="/apps/cooldrive-assets-commerce-packages"/>
 </workspaceFilter>
