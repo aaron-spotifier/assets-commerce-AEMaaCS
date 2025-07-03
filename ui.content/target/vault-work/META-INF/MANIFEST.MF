@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 21
+Implementation-Title: Assets commerce integration - UI content
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.cooldriveaemprogram.commerce:cooldrive-assets-co
+ mmerce.ui.content:0.0.1-SNAPSHOT
+Content-Package-Description: UI content package for Assets commerce inte
+ gration
+Content-Package-Roots: /conf/global/settings/dam/adminui-extension/metad
+ ataschema/default,/content/dam/wknd/en/activities/hiking/equipment_6.jp
+ g
+

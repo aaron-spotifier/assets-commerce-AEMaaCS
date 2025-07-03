@@ -1,0 +1,27 @@
+{
+  "id":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:slingosgifeature:user-aggregated-author:0.0.1-SNAPSHOT",
+  "assembled-features:ARTIFACTS|TRANSIENT":[
+    "com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:slingosgifeature:0.0.1-SNAPSHOT"
+  ],
+  "content-packages:ARTIFACTS|true":[
+    {
+      "id":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.ui.apps:zip:cp2fm-converted:0.0.1-SNAPSHOT",
+      "feature-origins":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:slingosgifeature:0.0.1-SNAPSHOT"
+    },
+    {
+      "id":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.ui.config:zip:cp2fm-converted:0.0.1-SNAPSHOT",
+      "feature-origins":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:slingosgifeature:0.0.1-SNAPSHOT"
+    },
+    {
+      "id":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:zip:cp2fm-converted:0.0.1-SNAPSHOT",
+      "feature-origins":"com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:slingosgifeature:0.0.1-SNAPSHOT"
+    }
+  ],
+  "repoinit:TEXT|true":[
+    "# origin=com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.all:0.0.1-SNAPSHOT|com.cooldriveaemprogram.commerce:cooldrive-assets-commerce.ui.config:0.0.1-SNAPSHOT source=org.apache.sling.jcr.repoinit.RepositoryInitializer~commerce-namespaces",
+    "register namespace (commerce) https://commerce.adobe.com"
+  ],
+  "artifact-rules:JSON|false":{
+
+  }
+}

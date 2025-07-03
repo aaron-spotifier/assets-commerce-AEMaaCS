@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 21
+Implementation-Title: cooldrive-assets-commerce - All
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.cooldriveaemprogram.commerce:cooldrive-assets-co
+ mmerce.all:0.0.1-SNAPSHOT
+Content-Package-Description: All modules package for com.cooldriveaempro
+ gram.commerce
+Content-Package-Roots: /apps/cooldrive-assets-commerce-packages
+

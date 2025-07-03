@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 21
+Implementation-Title: Assets commerce integration - UI apps
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.cooldriveaemprogram.commerce:cooldrive-assets-co
+ mmerce.ui.apps:0.0.1-SNAPSHOT
+Content-Package-Description: UI apps package for Assets commerce integra
+ tion
+Content-Package-Roots: /apps/commerce,/apps/dam/gui/coral/components/adm
+ in/schemaforms/formbuilder/formfields,/apps/dam/gui/coral/components/ad
+ min/schemaforms/formbuilder/v2
+

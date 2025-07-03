@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 21
+Implementation-Title: Assets commerce integration - UI config
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.cooldriveaemprogram.commerce:cooldrive-assets-co
+ mmerce.ui.config:0.0.1-SNAPSHOT
+Content-Package-Description: config package for Assets commerce integrat
+ ion
+Content-Package-Roots: /apps/commerce/config
+
